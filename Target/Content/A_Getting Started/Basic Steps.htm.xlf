@@ -45,15 +45,27 @@
     <body><trans-unit
         id="1"
         restype="x-xml-h1"
-        phase-name="pretrans"><source>Basic Steps2</source><seg-source><mrk
+        phase-name="pretrans"><source>Basic Steps<bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:change MadCap:changes="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> Chris<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:change&gt;</ept><bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:change MadCap:changes="2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>2<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:change&gt;</ept></source><seg-source><mrk
             mtype="seg"
-            mid="1">Basic Steps2</mrk></seg-source><target
+            mid="1">Basic Steps<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:change MadCap:changes="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> Chris<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:change&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:change MadCap:changes="2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>2<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:change&gt;</ept></mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
             MadCap:matchPercent="0"
-            MadCap:diff="New">Basic Steps2</mrk></target></trans-unit><trans-unit
+            MadCap:diff="New">Basic Steps<bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:change MadCap:changes="1" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt> Chris<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:change&gt;</ept><bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;MadCap:change MadCap:changes="2" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"&gt;</bpt>2<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/MadCap:change&gt;</ept></mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Here are the basic steps for using <ph
@@ -96,7 +108,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Here is some general text for a set of steps.</mrk><mrk
+            MadCap:matchPercent="100">Here is some general text for a set of steps.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -104,7 +116,7 @@
             mtype="seg"
             mid="11"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Replace this with your own content.</mrk><mrk
+            MadCap:matchPercent="100">Replace this with your own content.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -112,7 +124,7 @@
             mtype="seg"
             mid="9"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Here is some general text for a list item.</mrk><mrk
+            MadCap:matchPercent="100">Here is some general text for a list item.</mrk><mrk
             mtype="protected"
             mid="6"
             MadCap:segmentStatus="Untranslated"
@@ -120,7 +132,7 @@
             mtype="seg"
             mid="11"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Replace this with your own content.</mrk><mrk
+            MadCap:matchPercent="100">Replace this with your own content.</mrk><mrk
             mtype="protected"
             mid="8"
             MadCap:segmentStatus="Untranslated"
@@ -128,7 +140,7 @@
             mtype="seg"
             mid="9"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Here is some general text for a list item.</mrk><mrk
+            MadCap:matchPercent="100">Here is some general text for a list item.</mrk><mrk
             mtype="protected"
             mid="10"
             MadCap:segmentStatus="Untranslated"
@@ -136,7 +148,7 @@
             mtype="seg"
             mid="11"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Replace this with your own content.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Replace this with your own content.</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-li"
         phase-name="pretrans"><source>Here is some general text for a set of steps. Replace this with your own content.</source><seg-source><mrk
@@ -150,7 +162,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Here is some general text for a set of steps.</mrk><mrk
+            MadCap:matchPercent="100">Here is some general text for a set of steps.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -158,7 +170,7 @@
             mtype="seg"
             mid="7"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Replace this with your own content.</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="100">Replace this with your own content.</mrk></target></trans-unit><trans-unit
         id="5"
         restype="x-xml-li"
         phase-name="pretrans"><source>Here is some general text for a set of steps. Replace this with your own content. Here is some general text for a list item. Replace this with your own content.</source><seg-source><mrk
@@ -180,7 +192,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Here is some general text for a set of steps.</mrk><mrk
+            MadCap:matchPercent="100">Here is some general text for a set of steps.</mrk><mrk
             mtype="protected"
             mid="2"
             MadCap:segmentStatus="Untranslated"
@@ -188,7 +200,7 @@
             mtype="seg"
             mid="7"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Replace this with your own content.</mrk><mrk
+            MadCap:matchPercent="100">Replace this with your own content.</mrk><mrk
             mtype="protected"
             mid="4"
             MadCap:segmentStatus="Untranslated"
@@ -196,7 +208,7 @@
             mtype="seg"
             mid="5"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Here is some general text for a list item.</mrk><mrk
+            MadCap:matchPercent="100">Here is some general text for a list item.</mrk><mrk
             mtype="protected"
             mid="6"
             MadCap:segmentStatus="Untranslated"
@@ -204,6 +216,6 @@
             mtype="seg"
             mid="7"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0">Replace this with your own content.</mrk></target></trans-unit></body>
+            MadCap:matchPercent="100">Replace this with your own content.</mrk></target></trans-unit></body>
   </file>
 </xliff>

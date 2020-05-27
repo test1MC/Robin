@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <head>
+        <MadCap:changeData>
+            <MadCap:AddChange MadCap:userName="mtorres" MadCap:initials="MT" MadCap:id="1" MadCap:timestamp="2020-05-27T15:56:05.7715498-07:00" />
+            <MadCap:RemoveChange MadCap:userName="mtorres" MadCap:initials="MT" MadCap:id="2" MadCap:timestamp="2020-05-27T15:56:23.6120185-07:00" />
+        </MadCap:changeData>
         <link href="" rel="stylesheet" type="text/css" />
     </head>
     <body>
