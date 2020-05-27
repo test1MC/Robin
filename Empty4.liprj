@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/mtorres/AppData/Local/MadCap Software/Empty4/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/Lucy.git/" SourceProjectGuid="ffa1587d-1938-4793-9e9e-c1f432313801" SourceControlBound="false">
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/mtorres/AppData/Local/MadCap Software/Empty4/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/Lucy.git/" SourceProjectGuid="ffa1587d-1938-4793-9e9e-c1f432313801" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="63f3f138-1803-47fc-8777-a9d8149c1f45">
     <ProjectFile Source="Target/TN17.flprj" Target="Target/TN17.flprj" />
     <TMConnection Connection="S010116.db" ReadOnly="false" Type="StandAlone" />
 </LingoProject>
